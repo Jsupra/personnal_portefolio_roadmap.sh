@@ -139,6 +139,8 @@ footer{
     margin-left: 90px;
     margin-right: 90px;
     border: 2px solid black;
+    justify-content: center;
+    text-align: center;
 }
 
 
@@ -178,9 +180,7 @@ footer{
 }
 
 
-.right{
-   align-items: center;
-   justify-content: center;
-   text-align: center;
-   margin-top: 50px;
+.copyright{
+    text-align: center;
+    margin: 20px;
 }
